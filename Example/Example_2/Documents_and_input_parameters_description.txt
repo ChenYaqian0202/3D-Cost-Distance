@@ -1,0 +1,10 @@
+Calculate 3d cost distance in an urban environment
+
+Input friction file: 
+------buildings3d.txt (1 represents free space; 100000.0 represents impenetrable barriers. Size: 20*20*20)
+
+Input parameters:
+------number of rows, columns, and layers of input voxter: 20 20 20
+------the number of sources: 1
+------the row, column, and layer index of source: 14 9 5
+------maximum distance to be calculated: 100000.0
