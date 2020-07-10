@@ -5,7 +5,7 @@
 -------------------------
 Usage
 -------------------------
-1. You can run the tool by starting the Visual Studio project (CostDistanceC++.sln) in the code folder, or you can run the executable file (CostDistance3D.exe).
+1. You can run the tool by starting the Visual Studio project (CostDistanceC++.sln) in the code folder, or you can run the executable file (CostDistanceTool_V1.0.exe).
 
 2.You can test the tool by example data according to the description files.
 
